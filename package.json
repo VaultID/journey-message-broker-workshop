@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "amqplib": "^0.10.2",
+    "args": "^5.0.3"
+  }
+}
